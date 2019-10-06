@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.sorcerybattles.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\_VR Diploma round 7 - black (Shared)\\REHA\\Sorcery Battles\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Sorcery Battles [Testing]"
+        }
+      }
+    }
+  ]
+}
